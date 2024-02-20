@@ -1,6 +1,8 @@
-*Ejercicio Entregable Nº1:* Proceso de diseño de interfaz de usuario
+*Ejercicio Entregable Nº1:* Proceso de diseño de prototipo en alta fidelidad interactivo en FIGMA
+EN INDEX.HTML SE PUEDEN ENCONTRAR LOS LINKS AL PROYECTO EN FIGMA CON LOS SIGUIENTES REQUERIMIENTOS:
+
 - Se requiere el diseño de una plataforma estilo Juegos Online
-- Se deberá generar un prototipo en alta fidelidad/prototipo interactivo con FIGMA
+
 Definir un Design System con los siguientes ítems:
 - Paleta de colores, como mínimo color primario, secundario, acento y 3 luces/sombras para cada color
 - Cards de juegos (componente)
